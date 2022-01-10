@@ -2,7 +2,7 @@
 
 ## 😀 新生手册
 
-* [0. 致即将入学的学弟学妹们](README.md)
+* [0. 来自FACSS的一封信](README.md)
 * [1. 达拉斯概况](xin-sheng-shou-ce/1.-da-la-si-gai-kuang.md)
 * [2. UTD概况](xin-sheng-shou-ce/2.-utd-gai-kuang.md)
 * [3. 入学流程](xin-sheng-shou-ce/3.-ru-xue-liu-cheng.md)
