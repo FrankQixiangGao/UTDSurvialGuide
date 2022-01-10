@@ -2,8 +2,7 @@
 
 ## 📙 新生手册
 
-* [0. 来自FACSS的一封信](README.md)
-* [1. 达拉斯概况](xin-sheng-shou-ce/1.-da-la-si-gai-kuang.md)
+* [1. 达拉斯概况](README.md)
 * [2. UTD概况](xin-sheng-shou-ce/2.-utd-gai-kuang.md)
 * [3. 入学流程](xin-sheng-shou-ce/3.-ru-xue-liu-cheng.md)
 * [4. 电话卡办理](xin-sheng-shou-ce/4.-dian-hua-ka-ban-li.md)
