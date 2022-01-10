@@ -20,4 +20,5 @@
 
 * [FACSS官网](http://www.facss.us)
 * [UTD校园地图](https://map.utdallas.edu)
+* [停车场地图](https://services.utdallas.edu/download/Parking\_Map.pdf)
 * [更新日记](geng-xin-ri-ji.md)
