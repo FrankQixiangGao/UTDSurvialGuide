@@ -106,7 +106,7 @@ coverY: 764.4570135746607
 
 ## **3. 美国职场文化(LinkedIn/Networking)**
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 **除了专业能力，在美国找工作人脉也很重要。许多未公开的面试机会或许会通过中间人介绍， 也会增加面试成功的机会。**
 
