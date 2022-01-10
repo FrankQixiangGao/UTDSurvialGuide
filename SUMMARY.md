@@ -1,6 +1,6 @@
 # Table of contents
 
-## 😀 新生手册
+## 📙 新生手册
 
 * [0. 来自FACSS的一封信](README.md)
 * [1. 达拉斯概况](xin-sheng-shou-ce/1.-da-la-si-gai-kuang.md)
@@ -21,3 +21,4 @@
 
 * [FACSS官网](http://www.facss.us)
 * [UTD校园地图](https://map.utdallas.edu)
+* [更新日记](geng-xin-ri-ji.md)
