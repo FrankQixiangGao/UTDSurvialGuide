@@ -14,7 +14,7 @@
 * [10. 娱在达拉斯](xin-sheng-shou-ce/10.-yu-zai-da-la-si.md)
 * [11. 游在达拉斯](xin-sheng-shou-ce/11.-you-zai-da-la-si.md)
 * [12. 购在达拉斯](xin-sheng-shou-ce/12.-gou-zai-da-la-si.md)
-* [13 工作在达拉斯 Kacie](xin-sheng-shou-ce/13-gong-zuo-zai-da-la-si-kacie.md)
+* [13 工作在达拉斯](xin-sheng-shou-ce/13-gong-zuo-zai-da-la-si.md)
 
 ***
 

@@ -5,7 +5,7 @@ cover: >-
 coverY: 764.4570135746607
 ---
 
-# 13 工作在达拉斯 Kacie
+# 13 工作在达拉斯
 
 ## 1. [**校内工作**](https://studentemployment.utdallas.edu/on-campus/)****
 
@@ -92,7 +92,7 @@ coverY: 764.4570135746607
 * [ ] **护照影本(有照片那一面)**
 * [ ] **I-94 影本**
 * [ ] **F-1 签证影本**
-* [ ] **(Optional) 另可填写 G-1145 表格，当 USCIS 已收到你的申请 package，你会收到申请进度的 email／简讯通知。如果你没有填 G-1145 也没关系，USCIS 收到你的 case 也会寄 notice of receipt（平信）给你，通常要 2 个礼拜左右。Package 内容细节务必参考：**[**https://utdallas.app.box.com/v/optguideform**](13-gong-zuo-zai-da-la-si-kacie.md#1.-xiao-nei-gong-zuo)****
+* [ ] **(Optional) 另可填写 G-1145 表格，当 USCIS 已收到你的申请 package，你会收到申请进度的 email／简讯通知。如果你没有填 G-1145 也没关系，USCIS 收到你的 case 也会寄 notice of receipt（平信）给你，通常要 2 个礼拜左右。Package 内容细节务必参考：**[**https://utdallas.app.box.com/v/optguideform**](13-gong-zuo-zai-da-la-si.md#1.-xiao-nei-gong-zuo)****
 
 **5. 寄出后，可用 tracking number 查询申请包裹进度，若 USCIS 收到你的包裹后，2-3周内会寄一个追踪号码到你写在 I-765 上的地址，即可用此号码至 USCIS 网站查询 OPT申请进度。网站传送门：https://egov.uscis.gov/casestatus/landing.do**
 
