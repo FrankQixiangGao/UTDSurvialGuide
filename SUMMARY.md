@@ -1,6 +1,6 @@
 # Table of contents
 
-## 😀 新生手册
+## 📔 新生手册
 
 * [1. 达拉斯概况](README.md)
 * [2. UTD概况](xin-sheng-shou-ce/2.-utd-gai-kuang.md)
