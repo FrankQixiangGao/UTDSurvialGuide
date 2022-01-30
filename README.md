@@ -6,7 +6,7 @@ coverY: 0
 
 # 1. 达拉斯概况
 
-![](.gitbook/assets/Texas\_map.jpeg)
+![德州地图](.gitbook/assets/Texas\_map.jpeg)
 
 ****
 
