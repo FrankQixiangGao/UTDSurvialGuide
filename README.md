@@ -1,12 +1,12 @@
 ---
 cover: >-
-  ../.gitbook/assets/depositphotos_72756749-stock-illustration-hand-drawn-dallas-skyline.jpeg
+  .gitbook/assets/depositphotos_72756749-stock-illustration-hand-drawn-dallas-skyline.jpeg
 coverY: 0
 ---
 
 # 1. 达拉斯概况
 
-![达拉斯在美国的位置](../.gitbook/assets/Dallas-map.jpeg)
+![](.gitbook/assets/Texas\_map.jpeg)
 
 ****
 
